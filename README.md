@@ -1,5 +1,5 @@
 Little script to take MSMC2 file format and convert an unfolded SFS.
-Assumes alleles from at least one outgroup is available at each input locus.  
+Assumes alleles from at least one outgroup are available at each input locus.  
 Unit tested, but not field-tested. Use at your own risk. 
 
 See `python msmc2_to_sfs.py --help` for usage details
